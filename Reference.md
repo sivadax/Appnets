@@ -21,14 +21,20 @@ https://install.advancedrestclient.com/install
 
 ## Catalyst Tutorials @ Salesforce
 https://blogs.mulesoft.com/biz/news/next-generation-mulesoft-catalyst/
+
 https://trailhead.salesforce.com/en/content/learn/modules/mulesoft-catalyst-playbooks
+
 https://trailhead.salesforce.com/en/content/learn/modules/mulesoft-catalyst-knowledge-hub/explore-catalyst-playbooks-and-steps
 
 ## Enterprise Integration Patterns
 https://www.enterpriseintegrationpatterns.com/
+
 https://www.cloudcomputingpatterns.org/
+
 https://camel.apache.org/components/latest/eips/enterprise-integration-patterns.html
+
 https://docs.spring.io/spring-integration/reference/html/overview.html
+
 https://www.baeldung.com/spring-integration
 
 ## 
