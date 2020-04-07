@@ -54,6 +54,9 @@ https://docs.mulesoft.com/mule-sdk/1.1/best-practices
 ## Domain Driven Design
 http://ddd.fed.wiki.org/view/welcome-visitors
 
+A nice explanation on DDD
+https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG
+
 ## Anti Corruption Layer
 http://ddd.fed.wiki.org/view/anticorruption-layer
 
