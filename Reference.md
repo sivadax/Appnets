@@ -48,6 +48,8 @@ https://docs.mulesoft.com/exchange/to-change-raml-version#best-practices-api-ver
 
 https://semver.org/
 
+## Best Practices for Mule SDK
+https://docs.mulesoft.com/mule-sdk/1.1/best-practices
 
 
 
