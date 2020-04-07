@@ -51,6 +51,10 @@ https://semver.org/
 ## Best Practices for Mule SDK
 https://docs.mulesoft.com/mule-sdk/1.1/best-practices
 
+## Domain Driven Design
+http://ddd.fed.wiki.org/view/welcome-visitors
 
+## Anti Corruption Layer
+http://ddd.fed.wiki.org/view/anticorruption-layer
 
 
