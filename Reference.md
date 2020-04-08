@@ -89,9 +89,31 @@
 - https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG
 
 ### Anti Corruption Layer
-http://ddd.fed.wiki.org/view/anticorruption-layer
+- http://ddd.fed.wiki.org/view/anticorruption-layer
+
+## Mastering Chaos with Netflix Guide to Microservices
+- https://www.youtube.com/watch?v=CZ3wIuvmHeM
+
+## Hit Rate Miss Rate / Cache
+- https://wp-rocket.me/blog/cache-miss-vs-cache-hit/
+
+
+## Circuit Breaker
+
+- https://martinfowler.com/bliki/CircuitBreaker.html
 
 ## CQRS ( Command Query Responsibility Segregation )
 
 - https://martinfowler.com/bliki/CQRS.html
 - http://udidahan.com/2009/12/09/clarified-cqrs/
+
+## JSON Web Token
+- https://jwt.io/
+
+-----------------------------------------------------------
+
+## Anypoint Control Planes
+
+- EU https://eu1.anypoint.mulesoft.com/login/
+- US https://anypoint.mulesoft.com/home/
+- GOV https://gov.anypoint.mulesoft.com
