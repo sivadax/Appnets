@@ -1,9 +1,9 @@
 ## API Concepts
 
 ### RestFul API
-https://en.wikipedia.org/wiki/Representational_state_transfer
-https://martinfowler.com/articles/richardsonMaturityModel.html
-https://martinfowler.com/articles/enterpriseREST.html
+- https://en.wikipedia.org/wiki/Representational_state_transfer
+- https://martinfowler.com/articles/richardsonMaturityModel.html
+- https://martinfowler.com/articles/enterpriseREST.html
 
 ### SOAP API
 
