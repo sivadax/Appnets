@@ -1,3 +1,31 @@
+## API Concepts
+
+### RestFul API
+https://en.wikipedia.org/wiki/Representational_state_transfer
+https://martinfowler.com/articles/richardsonMaturityModel.html
+https://martinfowler.com/articles/enterpriseREST.html
+
+### SOAP API
+
+### WebSockets
+https://en.wikipedia.org/wiki/WebSocket
+
+### HTML Microdata 
+https://www.w3.org/TR/microdata/
+
+### RMI
+https://www.javatpoint.com/RMI
+
+### CORBA
+https://www.corba.org/faq.htm
+
+### gRpc
+https://grpc.io/docs/guides/
+
+### HTML5 Server Sent Events
+https://www.tutorialspoint.com/html5/html5_server_sent_events.htm
+
+
 ## Archimate
 
 ### Download Archimate 
@@ -62,3 +90,6 @@ https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG
 http://ddd.fed.wiki.org/view/anticorruption-layer
 
 
+## CQRS ( Command Query Responsibility Segregation )
+https://martinfowler.com/bliki/CQRS.html
+http://udidahan.com/2009/12/09/clarified-cqrs/
