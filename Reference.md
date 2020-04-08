@@ -97,7 +97,6 @@
 ## Hit Rate Miss Rate / Cache
 - https://wp-rocket.me/blog/cache-miss-vs-cache-hit/
 
-
 ## Circuit Breaker
 
 - https://martinfowler.com/bliki/CircuitBreaker.html
@@ -109,7 +108,7 @@
 
 ## JSON Web Token
 - https://jwt.io/
-
+- https://www.youtube.com/watch?v=soGRyl9ztjI
 -----------------------------------------------------------
 
 ## Anypoint Control Planes
@@ -117,3 +116,19 @@
 - EU https://eu1.anypoint.mulesoft.com/login/
 - US https://anypoint.mulesoft.com/home/
 - GOV https://gov.anypoint.mulesoft.com
+
+## Cloudhub Availability Zones
+
+- https://docs.mulesoft.com/runtime-manager/cloudhub-architecture#global-worker-clouds
+
+## Cloudhub Networking
+- https://docs.mulesoft.com/runtime-manager/vpc-architecture-concept
+- https://help.mulesoft.com/s/article/Dedicated-Load-Balancer-public-and-private-IP-FAQs
+- https://docs.mulesoft.com/runtime-manager/resolve-private-domains-vpc-task
+- https://docs.mulesoft.com/runtime-manager/lb-architecture
+- https://docs.mulesoft.com/runtime-manager/lb-mapping-rules
+
+## Resilent Testing
+https://usersnap.com/blog/resilience-testing/
+
+
