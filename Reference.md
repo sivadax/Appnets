@@ -28,6 +28,8 @@
 
 ## Archimate
 
+- http://archive.opengroup.org/public/member/proceedings/q209/q209a/Presentations/blom_2.pdf
+
 ### Download Archimate 
 
 - https://www.archimatetool.com/download/
