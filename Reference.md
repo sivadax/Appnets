@@ -106,9 +106,12 @@
 - https://martinfowler.com/bliki/CQRS.html
 - http://udidahan.com/2009/12/09/clarified-cqrs/
 
-## JSON Web Token
+## JSON Web Token || JWT
 - https://jwt.io/
+- [Configure Anypoint JWT Policy] (https://www.youtube.com/watch?v=rxRLt4djHs0)
+- https://www.youtube.com/watch?v=7Q17ubqLfaM
 - https://www.youtube.com/watch?v=soGRyl9ztjI
+- https://www.youtube.com/watch?v=926mknSW9Lo&t=11s
 -----------------------------------------------------------
 
 ## Anypoint Control Planes
@@ -129,6 +132,17 @@
 - https://docs.mulesoft.com/runtime-manager/lb-mapping-rules
 
 ## Resilent Testing
-https://usersnap.com/blog/resilience-testing/
+- https://usersnap.com/blog/resilience-testing/
+
+## Cors
+- https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/
+
+## Configuring (OAuth) 
+
+- okta https://www.youtube.com/watch?v=Z9NBip9FLAg
+- github https://www.youtube.com/watch?v=RExMC1iF-6k
+
+## API Fault tolerante strategies
+https://netflixtechblog.com/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a
 
 
