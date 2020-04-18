@@ -1,3 +1,5 @@
+:sectnums:
+
 = Appnets Certification Datasheet and Reference
 == Explaining Application Network Basics
 
