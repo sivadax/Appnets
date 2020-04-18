@@ -108,7 +108,7 @@
 
 ## JSON Web Token || JWT
 - https://jwt.io/
-- [Configure Anypoint JWT Policy] (https://www.youtube.com/watch?v=rxRLt4djHs0)
+- [Configure Anypoint JWT Policy](https://www.youtube.com/watch?v=rxRLt4djHs0)
 - https://www.youtube.com/watch?v=7Q17ubqLfaM
 - https://www.youtube.com/watch?v=soGRyl9ztjI
 - https://www.youtube.com/watch?v=926mknSW9Lo&t=11s
@@ -143,6 +143,11 @@
 - github https://www.youtube.com/watch?v=RExMC1iF-6k
 
 ## API Fault tolerante strategies
-https://netflixtechblog.com/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a
+- https://netflixtechblog.com/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a
 
+## Service Mesh
+- https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures/#download
+- https://beta.docs.stgx.mulesoft.com/beta-service-mesh/service-mesh/1.0/service-mesh-overview-and-landing-page
+
+-----------------------------------------------------------
 
