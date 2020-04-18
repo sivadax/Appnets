@@ -1,13 +1,14 @@
-:sectnums:
+
 
 = Appnets Certification Datasheet and Reference
 
+:sectnums:
 == Explaining Application Network Basics
 
 :sectnums!:
 === Explain MuleSoft’s proposal for closing the IT delivery gap
 
-
+:sectnums:
 == Establishing Organizational and Platform Foundations
 
 
