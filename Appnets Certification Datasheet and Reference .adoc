@@ -1,0 +1,49 @@
+
+
+= Appnets Certification Datasheet and Reference
+
+:sectnums:
+== Explaining Application Network Basics
+
+:sectnums!:
+=== Explain MuleSoft’s proposal for closing the IT delivery gap
+
+:sectnums:
+== Establishing Organizational and Platform Foundations
+
+
+== Designing APIs and API Interactions
+
+https://martinfowler.com/bliki/BoundedContext.html
+https://www.innoq.com/en/blog/thoughts-on-a-canonical-data-model/
+https://www2.deloitte.com/content/dam/Deloitte/za/Documents/ZA_Deloitte_Digita_Canonical_Schemas.pdf
+https://tools.ietf.org/html/rfc7231#section-4.2
+https://tools.ietf.org/html/rfc7234
+https://semver.org/
+https://stackoverflow.com/questions/27901549/semantic-versioning-of-rest-apis
+
+== Following API-Led Connectivity
+
+
+== Governing APIs on Anypoint Platform
+
+
+== Controlling Access to APIs
+
+
+== Delivering APIs
+
+https://docs.mulesoft.com/api-manager/2.x/gatekeeper
+
+== Deploying Mule Applications to CloudHub
+
+
+== Architecting Performant and Resilient APIs
+
+https://github.com/Netflix/Hystrix/wiki
+https://hackernoon.com/lets-talk-about-resilience-97051e14761f
+https://www.eclipse.org/community/eclipse_newsletter/2017/september/article4.php
+
+== Monitoring and Analyzing Application Networks
+
+https://www.eclipse.org/community/eclipse_newsletter/2017/september/article4.php
