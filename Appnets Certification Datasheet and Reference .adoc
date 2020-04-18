@@ -1,14 +1,14 @@
-
-= Explaining Application Network Basics
-
-
-== Explain MuleSoft’s proposal for closing the IT delivery gap
+= Appnets Certification Datasheet and Reference
+== Explaining Application Network Basics
 
 
-= Establishing Organizational and Platform Foundations
+=== Explain MuleSoft’s proposal for closing the IT delivery gap
 
 
-= Designing APIs and API Interactions
+== Establishing Organizational and Platform Foundations
+
+
+== Designing APIs and API Interactions
 
 https://martinfowler.com/bliki/BoundedContext.html
 https://www.innoq.com/en/blog/thoughts-on-a-canonical-data-model/
@@ -18,28 +18,28 @@ https://tools.ietf.org/html/rfc7234
 https://semver.org/
 https://stackoverflow.com/questions/27901549/semantic-versioning-of-rest-apis
 
-= Following API-Led Connectivity
+== Following API-Led Connectivity
 
 
-= Governing APIs on Anypoint Platform
+== Governing APIs on Anypoint Platform
 
 
-= Controlling Access to APIs
+== Controlling Access to APIs
 
 
-= Delivering APIs
+== Delivering APIs
 
 https://docs.mulesoft.com/api-manager/2.x/gatekeeper
 
-= Deploying Mule Applications to CloudHub
+== Deploying Mule Applications to CloudHub
 
 
-= Architecting Performant and Resilient APIs
+== Architecting Performant and Resilient APIs
 
 https://github.com/Netflix/Hystrix/wiki
 https://hackernoon.com/lets-talk-about-resilience-97051e14761f
 https://www.eclipse.org/community/eclipse_newsletter/2017/september/article4.php
 
-= Monitoring and Analyzing Application Networks
+== Monitoring and Analyzing Application Networks
 
 https://www.eclipse.org/community/eclipse_newsletter/2017/september/article4.php
