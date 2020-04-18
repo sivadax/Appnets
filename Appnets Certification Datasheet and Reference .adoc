@@ -3,7 +3,7 @@ Explaining Application Network Basics
 -------------------------------------
 
 Explain MuleSoft’s proposal for closing the IT delivery gap
-```````````````````````````````````````````````````````````
+````````````
 
 Establishing Organizational and Platform Foundations
 ----------------------------------------------------
