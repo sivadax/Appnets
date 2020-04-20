@@ -136,6 +136,7 @@
 
 ## Cors
 - https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
 ## Configuring (OAuth) 
 
@@ -144,6 +145,15 @@
 
 ## API Fault tolerante strategies
 - https://netflixtechblog.com/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a
+
+## API Notebook
+- GitHub Flavored Markdown Spec https://github.github.com/gfm/
+
+## Single Responsibility Principle
+
+
+## Web Application Firewall (WAF) security policy enforcing the OWASP Core Rule Set
+- https://coreruleset.org/
 
 ## Service Mesh
 - https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures/#download
