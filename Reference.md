@@ -133,6 +133,8 @@
 
 ## Resilent Testing
 - https://usersnap.com/blog/resilience-testing/
+- https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116
+- https://github.com/Netflix/SimianArmy
 
 ## Cors
 - https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/
