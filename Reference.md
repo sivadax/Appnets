@@ -78,12 +78,10 @@
 - https://www.baeldung.com/spring-integration
 
 ## Starter Codes from Mulesoft
-
 - https://github.com/mulesoft-catalyst
 - https://github.com/mulesoft-labs
 
 ## Best practices for API Versioning
-
 - https://docs.mulesoft.com/exchange/to-change-raml-version#best-practices-api-versioning
 - https://semver.org/
 
@@ -92,6 +90,7 @@
 
 ## Domain Driven Design
 - http://ddd.fed.wiki.org/view/welcome-visitors
+- Eric Evans DDD and Microservices: At Last, Some Boundaries! https://www.youtube.com/watch?v=sFCgXH7DwxM
 
 ### A nice explanation on DDD
 - https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG
@@ -106,7 +105,6 @@
 - https://wp-rocket.me/blog/cache-miss-vs-cache-hit/
 
 ## Circuit Breaker
-
 - https://martinfowler.com/bliki/CircuitBreaker.html
 
 ## CQRS ( Command Query Responsibility Segregation )
