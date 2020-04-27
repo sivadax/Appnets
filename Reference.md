@@ -178,6 +178,8 @@
 ## Anypoint and Mule Updates
 - https://docs.mulesoft.com/release-notes/quick-refs/by-date-index
 
+## Runtime Fabric Installation
+- https://www.youtube.com/watch?v=6ZwyJkdpfPw&t=5s
 
 
 
