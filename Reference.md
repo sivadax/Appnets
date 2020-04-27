@@ -1,3 +1,20 @@
+## Identity management
+- Federated https://docs.mulesoft.com/runtime-manager/anypoint-platform-cli
+
+## Anypoint CLI
+- https://docs.mulesoft.com/runtime-manager/anypoint-platform-cli
+
+## Catalyst
+- https://docs.mulesoft.com/runtime-manager/anypoint-platform-cli
+- https://github.com/mulesoft-catalyst
+- https://github.com/mulesoft-labs
+
+## Custom Connectors
+- https://docs.mulesoft.com/mule-sdk/1.1/getting-started
+
+## Three Tier Architecture ( Past and Present )
+- https://www.youtube.com/watch?v=tpspO9K28PM&t=1s
+
 ## API Concepts
 
 ### RestFul API
@@ -25,26 +42,20 @@
 ### HTML5 Server Sent Events
 - https://www.tutorialspoint.com/html5/html5_server_sent_events.htm
 
-
 ## Archimate
-
 - http://archive.opengroup.org/public/member/proceedings/q209/q209a/Presentations/blom_2.pdf
 
 ### Download Archimate 
-
 - https://www.archimatetool.com/download/
 
 ### Diagram Tool
-
 - http://draw.io/
 
 ### Archimate Cookbook 
-
 - http://www.hosiaisluoma.fi/ArchiMate-Cookbook.pdf
 - https://www.hosiaisluoma.fi/blog/archimate-cookbook/archimate-cookbook/
 
 ## API Led connectivity Whitepaper
-
 - https://www.mulesoft.com/lp/whitepaper/api/api-led-connectivity
 
 ## Download Anypoint Studio
