@@ -183,7 +183,9 @@
 - https://docs.mulesoft.com/api-community-manager/
 - Training / Trailhead https://trailhead.salesforce.com/en/content/learn/trails/communities
 - Webinar https://www.mulesoft.com/ty/webinar/developer-portal-community-manager
+
 Some Examples
+
 - https://www.nzpost.co.nz/business/developer-resource-centre
 - https://developer.hsbc.com/#/apiCatalogue
 - https://developer.kone.com/s/
