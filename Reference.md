@@ -65,17 +65,12 @@
 - https://www.mulesoft.com/lp/whitepaper/api/api-led-connectivity
 
 ## Download Anypoint Studio
-
 - https://www.mulesoft.com/lp/dl/studio
 
 ## Download Advanced Rest Client
-
 - https://install.advancedrestclient.com/install
 
-
-
 ## Enterprise Integration Patterns
-
 - https://www.enterpriseintegrationpatterns.com/
 - https://www.cloudcomputingpatterns.org/
 - https://camel.apache.org/components/latest/eips/enterprise-integration-patterns.html
@@ -125,16 +120,13 @@
 - https://www.youtube.com/watch?v=7Q17ubqLfaM
 - https://www.youtube.com/watch?v=soGRyl9ztjI
 - https://www.youtube.com/watch?v=926mknSW9Lo&t=11s
------------------------------------------------------------
 
 ## Anypoint Control Planes
-
 - EU https://eu1.anypoint.mulesoft.com/login/
 - US https://anypoint.mulesoft.com/home/
 - GOV https://gov.anypoint.mulesoft.com
 
 ## Cloudhub Availability Zones
-
 - https://docs.mulesoft.com/runtime-manager/cloudhub-architecture#global-worker-clouds
 
 ## Cloudhub Networking
@@ -174,5 +166,19 @@
 - https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures/#download
 - https://beta.docs.stgx.mulesoft.com/beta-service-mesh/service-mesh/1.0/service-mesh-overview-and-landing-page
 
------------------------------------------------------------
+## VPC
+- FAQ https://docs.mulesoft.com/runtime-manager/vpc-provisioning-concept
+- Where to position your VPC https://docs.mulesoft.com/runtime-manager/vpc-management-permission-topic
+
+## VPN
+- https://docs.mulesoft.com/runtime-manager/vpn-about
+- https://help.mulesoft.com/s/article/Anypoint-VPN-Knowledge-Articles
+- https://docs.mulesoft.com/runtime-manager/vpn-create-arm#vpn-create-arm
+
+## Anypoint and Mule Updates
+- https://docs.mulesoft.com/release-notes/quick-refs/by-date-index
+
+
+
+
 
