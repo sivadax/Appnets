@@ -5,7 +5,13 @@
 - https://docs.mulesoft.com/runtime-manager/anypoint-platform-cli
 
 ## Catalyst
-- https://docs.mulesoft.com/runtime-manager/anypoint-platform-cli
+
+### Catalyst Tutorials @ Salesforce
+- https://blogs.mulesoft.com/biz/news/next-generation-mulesoft-catalyst/
+- https://trailhead.salesforce.com/en/content/learn/modules/mulesoft-catalyst-playbooks
+- https://trailhead.salesforce.com/en/content/learn/modules/mulesoft-catalyst-knowledge-hub/explore-catalyst-playbooks-and-steps
+
+### Some POC & Catalyst codes
 - https://github.com/mulesoft-catalyst
 - https://github.com/mulesoft-labs
 
@@ -66,11 +72,7 @@
 
 - https://install.advancedrestclient.com/install
 
-## Catalyst Tutorials @ Salesforce
 
-- https://blogs.mulesoft.com/biz/news/next-generation-mulesoft-catalyst/
-- https://trailhead.salesforce.com/en/content/learn/modules/mulesoft-catalyst-playbooks
-- https://trailhead.salesforce.com/en/content/learn/modules/mulesoft-catalyst-knowledge-hub/explore-catalyst-playbooks-and-steps
 
 ## Enterprise Integration Patterns
 
