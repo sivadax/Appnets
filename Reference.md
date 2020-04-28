@@ -191,5 +191,25 @@ Some Examples
 - https://developer.kone.com/s/
 
 
+## Security 
 
+OWASP and Cloudhub
+
+- https://dzone.com/articles/cheatsheet-addressing-owasp-top-10-vulnerabilities
+
+  SQL Injection (SQLi) ( 
+  Cross Site Scripting (XSS)
+  Local File Inclusion (LFI)
+  Remote File Inclusion (RFI)
+  PHP Code Injection
+  Java Code Injection	HTTPoxy
+  Shellshock
+  Unix/Windows Shell Injection
+  Session Fixation
+  Scripting/Scanner/Bot Detection
+  Metadata/Error Leakages
+
+Anypoint Security ( Available only for RTF )
+- https://docs.qax.mulesoft.com/anypoint-security/cap-policy
+- https://docs.mulesoft.com/runtime-manager/penetration-testing-policies
 
