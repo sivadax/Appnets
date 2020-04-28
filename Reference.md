@@ -29,6 +29,8 @@
 - https://martinfowler.com/articles/enterpriseREST.html
 
 ### SOAP API
+- https://www.w3.org/TR/wsdl20-soap11-binding/
+- https://www.w3schools.com/xml/xml_soap.asp
 
 ### WebSockets
 - https://en.wikipedia.org/wiki/WebSocket
@@ -113,6 +115,8 @@
 - http://udidahan.com/2009/12/09/clarified-cqrs/
 
 ## JSON Web Token || JWT
+- https://blogs.mulesoft.com/dev/training-dev/json-web-token-validation/
+- https://docs.mulesoft.com/api-manager/2.x/policy-mule4-jwt-validation
 - https://jwt.io/
 - [Configure Anypoint JWT Policy](https://www.youtube.com/watch?v=rxRLt4djHs0)
 - https://www.youtube.com/watch?v=7Q17ubqLfaM
@@ -196,6 +200,7 @@ Some Examples
 OWASP and Cloudhub
 
 - https://dzone.com/articles/cheatsheet-addressing-owasp-top-10-vulnerabilities
+- https://docs.mulesoft.com/runtime-manager/penetration-testing-policies
 
   SQL Injection (SQLi) ( 
   Cross Site Scripting (XSS)
@@ -211,5 +216,5 @@ OWASP and Cloudhub
 
 Anypoint Security ( Available only for RTF )
 - https://docs.qax.mulesoft.com/anypoint-security/cap-policy
-- https://docs.mulesoft.com/runtime-manager/penetration-testing-policies
+
 
