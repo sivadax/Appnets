@@ -37,9 +37,9 @@ Determine the current state baseline and begin to collect and understand the met
 ## EA Lifecycle
 
 - Initiation
--- Executive Approval
--- Governanance
--- Policy
+	- Executive Approval
+	- Governanance
+	- Policy
 	
 - Planning
 	- Mission, Vision, Scope
@@ -57,40 +57,35 @@ Determine the current state baseline and begin to collect and understand the met
 	- Collaborate with business
 	- Stay abreast of new technologies
 
-EA is a continuos process
+## EA a continuos process
 A change can negatively impact an organization
 
 EA Deliverables
 
-- 	Stratey 
-	Principles 
-	Policy
-	
-- 	governance 
-	Technology 
-	Standards
-	
-- 	Architecture 
-	planning 
-	Roadmap
+- Stratey 
+- Principles 
+- Policy
+- governance 
+- Technology 
+- Standards
+- Architecture 
+- planning 
+- Roadmap
 
-
-
-Why IT projects Fail ?
-
+## Why IT projects Fail ?
 10 Percent Projects are successful.
-
 various factors , three main
-
 	- lack of alignemnt around business outcomes
 	- organization was not enabled to actually deliver successfully	
 	- project took too long to realize value
 	
-	
+
 Business outcomes : 
 	Define clear outcomes and KPI with stakeholder alignemnt
+	
 Technology delivery: 
 	Enable platform availability and team readiness to build apis and integrations
+	
 Organizational enablement : 
 	Ensure organizational rediness with anypoint platform
 
