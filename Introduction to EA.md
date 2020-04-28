@@ -1,15 +1,15 @@
-What is Enterprise Architecture ?
+## What is Enterprise Architecture ?
 
 Enterprise Architecture is the process of translating business vision and strategy into effective enterprise change by creating, communicating and imporoving the key requirements, principles and models that describe the enterprise's future state and enable its evoloution.
 
-EA is a component of strategic planning. (technology-focused)
+### EA is a component of strategic planning. (technology-focused)
 
-Organizational / Functional ( How, Where, when )
-Data/Information ( What, how much & how frequently )
-Application/Infrastrcuture (Enablers)
-Technology (Enabler )
+- Organizational / Functional ( How, Where, when )
+- Data/Information ( What, how much & how frequently )
+- Application/Infrastrcuture (Enablers)
+- Technology (Enabler )
 
-Purpose of EA
+## Purpose of EA
 
 The purpose of EA is to maximize investment returns, improve performance and embrace emerging technologies that support the business.
 
@@ -18,31 +18,28 @@ The purpose of EA is to maximize investment returns, improve performance and emb
 - Achieves economies of scale by sharing services
 
 The vision to execution is normally managed using a project management office, which prioritize projects.
-
-
 Key terms used
 
-Vision - Outlines what the organization wants to be
-Strategic Planning - Process of defining direction and making decisiions on allocating resources to pursue this strategy
-Framework - A real or conceptual structure intented to servie as  a support or guide for the building of something that expands the structure into something useful.
-EA Governanance - The practice by which enterprise architecture and its products are managed and controlled at an enterprise-wide level.
-Deliverable - Any mesurable , tangible, verifiable outcome, result, or item that must be produced to complete a project or part of a project.
-Lifecycle - A series of stages through which something ( as an individual, culture, or manufactured product) passes during its lifetime.
-SPonsor - Person who manages, administers, monitors, funds and is responsible for the overall effort (in this case, EA)
-EA Stakeholders - Individuals & groups that are actively involved in EA or whose intrests may be positively or negatively impacted as a result of EA execution.
-Standardization - The act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument)
-Taxonomy - The science of classification according to a pre-determined system whose resulting catalogue is used to provide a conceptual framework. ( using the same frame of reference for communicating within organization)
+- Vision - Outlines what the organization wants to be
+- Strategic Planning - Process of defining direction and making decisiions on allocating resources to pursue this strategy
+- Framework - A real or conceptual structure intented to servie as  a support or guide for the building of something that expands the structure into something useful.
+- EA Governanance - The practice by which enterprise architecture and its products are managed and controlled at an enterprise-wide level.
+- Deliverable - Any mesurable , tangible, verifiable outcome, result, or item that must be produced to complete a project or part of a project.
+- Lifecycle - A series of stages through which something ( as an individual, culture, or manufactured product) passes during its lifetime.
+- SPonsor - Person who manages, administers, monitors, funds and is responsible for the overall effort (in this case, EA)
+- EA Stakeholders - Individuals & groups that are actively involved in EA or whose intrests may be positively or negatively impacted as a result of EA execution.
+- Standardization - The act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument)
+- Taxonomy - The science of classification according to a pre-determined system whose resulting catalogue is used to provide a conceptual framework. ( using the same frame of reference for communicating within organization)
 
 Start with a Framework
-
 Determine the current state baseline and begin to collect and understand the metrics for the future desired state. (TOGAF, DOD, FEDERAL, ZACHMANN )
 
-EA Lifecycle
+## EA Lifecycle
 
 - Initiation
-	- Executive Approval
-	- Governanance
-	- Policy
+-- Executive Approval
+-- Governanance
+-- Policy
 	
 - Planning
 	- Mission, Vision, Scope
