@@ -217,4 +217,9 @@ OWASP and Cloudhub
 Anypoint Security ( Available only for RTF )
 - https://docs.qax.mulesoft.com/anypoint-security/cap-policy
 
+## Architectural Related Conferences, Blogs and Talks
+- Blogs https://www.infoq.com/
+- infoQ https://www.youtube.com/user/MarakanaTechTV
+- Devox https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg
+- https://microservices.io/
 
