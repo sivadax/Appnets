@@ -1,5 +1,7 @@
 ## Identity management
 - Federated https://docs.mulesoft.com/runtime-manager/anypoint-platform-cli
+- Ping Federate https://www.pingidentity.com/en/software/pingfederate.html
+- JWT C
 
 ## Anypoint CLI
 - https://docs.mulesoft.com/runtime-manager/anypoint-platform-cli
@@ -93,6 +95,7 @@
 ## Domain Driven Design
 - http://ddd.fed.wiki.org/view/welcome-visitors
 - Eric Evans DDD and Microservices: At Last, Some Boundaries! https://www.youtube.com/watch?v=sFCgXH7DwxM
+- The Book https://www.amazon.in/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
 
 ### A nice explanation on DDD
 - https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG
@@ -194,10 +197,23 @@ Some Examples
 - https://developer.hsbc.com/#/apiCatalogue
 - https://developer.kone.com/s/
 
+## Cloudhub Networking
+
+Setting up a Dedicated Loadbalancer in Cloudhub VPC and configuring mapping rules
+
+- https://www.youtube.com/watch?v=5IZheOB2TSk
+
+## Runtime Fabric Installation
+
+Azure  - https://www.youtube.com/watch?v=6ZwyJkdpfPw
+
+## Installing Hybrid Cloudhub to Heroku
+
+Heroku - https://www.youtube.com/watch?v=5IZheOB2TSk
 
 ## Security 
 
-OWASP and Cloudhub
+*OWASP and Cloudhub*
 
 - https://dzone.com/articles/cheatsheet-addressing-owasp-top-10-vulnerabilities
 - https://docs.mulesoft.com/runtime-manager/penetration-testing-policies
@@ -214,7 +230,8 @@ OWASP and Cloudhub
   Scripting/Scanner/Bot Detection
   Metadata/Error Leakages
 
-Anypoint Security ( Available only for RTF )
+*Anypoint Security ( Available only for RTF )*
+
 - https://docs.qax.mulesoft.com/anypoint-security/cap-policy
 
 ## Architectural Related Conferences, Blogs and Talks
@@ -223,3 +240,56 @@ Anypoint Security ( Available only for RTF )
 - Devox https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg
 - https://microservices.io/
 
+# Additional Link from Sessions
+
+## Reactive Programming
+
+- Reactive Manifesto https://www.reactivemanifesto.org/
+- https://projectreactor.io/docs
+
+
+## Testing
+
+Resilent testing
+
+- https://en.wikipedia.org/wiki/Monkey_testing
+- https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116
+
+## Semantic Versioning
+
+- https://semver.org/
+
+## Best Practices API Versioning
+
+- https://blogs.mulesoft.com/dev/api-dev/api-best-practices-series-intro/
+- https://blogs.mulesoft.com/dev/api-dev/api-best-practices-series-spec-driven-development/
+- https://blogs.mulesoft.com/dev/api-dev/api-best-practices-nouns-crud-etc/
+- https://blogs.mulesoft.com/dev/api-dev/api-best-practices-hypermedia-part-1/
+- https://blogs.mulesoft.com/dev/api-dev/api-best-practices-hypermedia-part-2/
+- https://blogs.mulesoft.com/dev/api-dev/api-best-practices-hypermedia-part-3/
+- https://blogs.mulesoft.com/dev/api-dev/api-best-practices-response-handling/
+- https://blogs.mulesoft.com/dev/api-dev/api-best-practices-api-management/
+- https://blogs.mulesoft.com/dev/api-dev/api-best-practices-wrap-up/
+
+## RAML Best Practicies ( Free Ebook from Mulesoft )
+
+- https://www.mulesoft.com/lp/ebook/api/restbook
+
+## Free Ebook on Web API design from apigee
+
+- https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf
+
+## Saga Patterns, CAP Theorem, Eventual Consistency and Reliable Patterns in Microservices
+
+- CAP Theorem  https://en.wikipedia.org/wiki/CAP_theorem
+- https://microservices.io/patterns/data/saga.html
+- Reliability Patterns  https://docs.mulesoft.com/mule-runtime/4.3/reliability-patterns
+
+## Topics related to Cloudhub and Runtime Fabric
+
+- https://www.mulesoft.com/lp/dl/mule-esb-enterprise
+- https://aws.amazon.com/ec2/instance-types/
+
+- https://docs.mulesoft.com/runtime-fabric/1.4/architecture
+- https://docs.mulesoft.com/runtime-fabric/1.4/runtime-fabric-limitations
+- https://docs.mulesoft.com/runtime-manager/cloudhub-architecture
