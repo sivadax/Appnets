@@ -163,6 +163,9 @@
 
 ## Single Responsibility Principle
 
+## API Security Best Practicies
+
+- https://www.mulesoft.com/ty/webinar/security-best-practices
 
 ## Web Application Firewall (WAF) security policy enforcing the OWASP Core Rule Set
 - https://coreruleset.org/
