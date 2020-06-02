@@ -1,7 +1,7 @@
 ## Identity management
 - Federated https://docs.mulesoft.com/runtime-manager/anypoint-platform-cli
 - Ping Federate https://www.pingidentity.com/en/software/pingfederate.html
-- JWT C
+
 
 ## Anypoint CLI
 - https://docs.mulesoft.com/runtime-manager/anypoint-platform-cli
@@ -92,10 +92,7 @@
 ## Best Practices for Mule SDK
 - https://docs.mulesoft.com/mule-sdk/1.1/best-practices
 
-## Domain Driven Design
-- http://ddd.fed.wiki.org/view/welcome-visitors
-- Eric Evans DDD and Microservices: At Last, Some Boundaries! https://www.youtube.com/watch?v=sFCgXH7DwxM
-- The Book https://www.amazon.in/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
+                                                  
 
 ### A nice explanation on DDD
 - https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG
@@ -125,6 +122,9 @@
 - https://www.youtube.com/watch?v=7Q17ubqLfaM
 - https://www.youtube.com/watch?v=soGRyl9ztjI
 - https://www.youtube.com/watch?v=926mknSW9Lo&t=11s
+- [Kevin Jervis. Secure APIs using JWT](https://www.youtube.com/watch?v=W7XuJg9L6Sw)
+
+
 
 ## Anypoint Control Planes
 - EU https://eu1.anypoint.mulesoft.com/login/
