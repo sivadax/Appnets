@@ -163,9 +163,7 @@
 
 ## Single Responsibility Principle
 
-## API Security Best Practicies
 
-- https://www.mulesoft.com/ty/webinar/security-best-practices
 
 ## Web Application Firewall (WAF) security policy enforcing the OWASP Core Rule Set
 - https://coreruleset.org/
@@ -215,6 +213,10 @@ Azure  - https://www.youtube.com/watch?v=6ZwyJkdpfPw
 Heroku - https://www.youtube.com/watch?v=5IZheOB2TSk
 
 ## Security 
+
+*API Security Best Practicies - Webinar*
+
+- https://www.mulesoft.com/ty/webinar/security-best-practices
 
 *OWASP and Cloudhub*
 
