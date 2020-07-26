@@ -54,16 +54,18 @@
 
 ## Archimate
 - http://archive.opengroup.org/public/member/proceedings/q209/q209a/Presentations/blom_2.pdf
+- user guide https://www.archimatetool.com/downloads/Archi%20User%20Guide.pdf
 
-### Download Archimate 
+## Download Archimate 
 - https://www.archimatetool.com/download/
 
-### Diagram Tool
-- http://draw.io/
-
-### Archimate Cookbook 
+## Archimate Cookbook 
 - http://www.hosiaisluoma.fi/ArchiMate-Cookbook.pdf
 - https://www.hosiaisluoma.fi/blog/archimate-cookbook/archimate-cookbook/
+
+## Diagram Tool
+- http://draw.io/
+
 
 ## API Led connectivity Whitepaper
 - https://www.mulesoft.com/lp/whitepaper/api/api-led-connectivity
