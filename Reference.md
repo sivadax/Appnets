@@ -6,109 +6,127 @@
 ## Anypoint CLI
 - https://docs.mulesoft.com/runtime-manager/anypoint-platform-cli
 
-## Catalyst
-
-### Catalyst Tutorials @ Salesforce
+## Catalyst Tutorials @ Salesforce
 - https://blogs.mulesoft.com/biz/news/next-generation-mulesoft-catalyst/
 - https://trailhead.salesforce.com/en/content/learn/modules/mulesoft-catalyst-playbooks
 - https://trailhead.salesforce.com/en/content/learn/modules/mulesoft-catalyst-knowledge-hub/explore-catalyst-playbooks-and-steps
 
-### Some POC & Catalyst codes
+## Some POC & Catalyst codes
+
 - https://github.com/mulesoft-catalyst
+- https://github.com/mulesoft-consulting
 - https://github.com/mulesoft-labs
 
 ## Custom Connectors
+
 - https://docs.mulesoft.com/mule-sdk/1.1/getting-started
 
 ## Three Tier Architecture ( Past and Present )
+
 - https://www.youtube.com/watch?v=tpspO9K28PM&t=1s
 
-## API Concepts
+## RestFul API
 
-### RestFul API
 - https://en.wikipedia.org/wiki/Representational_state_transfer
 - https://martinfowler.com/articles/richardsonMaturityModel.html
 - https://martinfowler.com/articles/enterpriseREST.html
 
-### SOAP API
+## SOAP API
+
 - https://www.w3.org/TR/wsdl20-soap11-binding/
 - https://www.w3schools.com/xml/xml_soap.asp
 
-### WebSockets
-- https://en.wikipedia.org/wiki/WebSocket
+## WebSockets
 
-### HTML Microdata 
+- https://en.wikipedia.org/wiki/WebSocket
+- https://blogs.mulesoft.com/dev-guides/api-connectors-templates/websockets-connector/
+- https://developer.mulesoft.com/tutorials-and-howtos/connectors/how-to-create-realtime-charts-using-websockets-connector
+
+## HTML Microdata 
+
 - https://www.w3.org/TR/microdata/
 
-### RMI
+## RMI
+
 - https://www.javatpoint.com/RMI
 
-### CORBA
+## CORBA
+
 - https://www.corba.org/faq.htm
 
-### gRpc
+## gRpc
+
 - https://grpc.io/docs/guides/
 
-### HTML5 Server Sent Events
+## HTML5 Server Sent Events
+
 - https://www.tutorialspoint.com/html5/html5_server_sent_events.htm
 
 ## Archimate
+
 - http://archive.opengroup.org/public/member/proceedings/q209/q209a/Presentations/blom_2.pdf
 - user guide https://www.archimatetool.com/downloads/Archi%20User%20Guide.pdf
 
 ## Download Archimate 
+
 - https://www.archimatetool.com/download/
 
 ## Archimate Cookbook 
+
 - http://www.hosiaisluoma.fi/ArchiMate-Cookbook.pdf
 - https://www.hosiaisluoma.fi/blog/archimate-cookbook/archimate-cookbook/
 
 ## Diagram Tool
+
 - http://draw.io/
 
-
 ## API Led connectivity Whitepaper
+
 - https://www.mulesoft.com/lp/whitepaper/api/api-led-connectivity
 
 ## Download Anypoint Studio
+
 - https://www.mulesoft.com/lp/dl/studio
 
 ## Download Advanced Rest Client
+
 - https://install.advancedrestclient.com/install
 
 ## Enterprise Integration Patterns
+
 - https://www.enterpriseintegrationpatterns.com/
 - https://www.cloudcomputingpatterns.org/
 - https://camel.apache.org/components/latest/eips/enterprise-integration-patterns.html
 - https://docs.spring.io/spring-integration/reference/html/overview.html
 - https://www.baeldung.com/spring-integration
 
-## Starter Codes from Mulesoft
-- https://github.com/mulesoft-catalyst
-- https://github.com/mulesoft-labs
-
 ## Best practices for API Versioning
+
 - https://docs.mulesoft.com/exchange/to-change-raml-version#best-practices-api-versioning
 - https://semver.org/
 
 ## Best Practices for Mule SDK
+
 - https://docs.mulesoft.com/mule-sdk/1.1/best-practices
+                                               
+## A nice explanation on DDD
 
-                                                  
-
-### A nice explanation on DDD
 - https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG
 
-### Anti Corruption Layer
+## Anti Corruption Layer
+
 - http://ddd.fed.wiki.org/view/anticorruption-layer
 
 ## Mastering Chaos with Netflix Guide to Microservices
+
 - https://www.youtube.com/watch?v=CZ3wIuvmHeM
 
 ## Hit Rate Miss Rate / Cache
+
 - https://wp-rocket.me/blog/cache-miss-vs-cache-hit/
 
 ## Circuit Breaker
+
 - https://martinfowler.com/bliki/CircuitBreaker.html
 
 ## CQRS ( Command Query Responsibility Segregation )
@@ -117,6 +135,11 @@
 - http://udidahan.com/2009/12/09/clarified-cqrs/
 
 ## JSON Web Token || JWT
+
+A Short Video Explaining in detail about JWT
+- https://www.youtube.com/watch?v=rCkDE2me_qk
+
+Mule Relevant Links
 - https://blogs.mulesoft.com/dev/training-dev/json-web-token-validation/
 - https://docs.mulesoft.com/api-manager/2.x/policy-mule4-jwt-validation
 - https://jwt.io/
@@ -127,16 +150,18 @@
 - [Kevin Jervis. Secure APIs using JWT](https://www.youtube.com/watch?v=W7XuJg9L6Sw)
 
 
-
 ## Anypoint Control Planes
+
 - EU https://eu1.anypoint.mulesoft.com/login/
 - US https://anypoint.mulesoft.com/home/
 - GOV https://gov.anypoint.mulesoft.com
 
 ## Cloudhub Availability Zones
+
 - https://docs.mulesoft.com/runtime-manager/cloudhub-architecture#global-worker-clouds
 
 ## Cloudhub Networking
+
 - https://docs.mulesoft.com/runtime-manager/vpc-architecture-concept
 - https://help.mulesoft.com/s/article/Dedicated-Load-Balancer-public-and-private-IP-FAQs
 - https://docs.mulesoft.com/runtime-manager/resolve-private-domains-vpc-task
@@ -144,11 +169,13 @@
 - https://docs.mulesoft.com/runtime-manager/lb-mapping-rules
 
 ## Resilent Testing
+
 - https://usersnap.com/blog/resilience-testing/
 - https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116
 - https://github.com/Netflix/SimianArmy
 
 ## Cors
+
 - https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
@@ -158,43 +185,52 @@
 - github https://www.youtube.com/watch?v=RExMC1iF-6k
 
 ## API Fault tolerante strategies
+
 - https://netflixtechblog.com/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a
 
 ## API Notebook
+
 - GitHub Flavored Markdown Spec https://github.github.com/gfm/
 
 ## Single Responsibility Principle
 
-
+- https://reflectoring.io/single-responsibility-principle/
 
 ## Web Application Firewall (WAF) security policy enforcing the OWASP Core Rule Set
+
 - https://coreruleset.org/
 
 ## Service Mesh
+
 - https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures/#download
 - https://beta.docs.stgx.mulesoft.com/beta-service-mesh/service-mesh/1.0/service-mesh-overview-and-landing-page
 
 ## VPC
+
 - FAQ https://docs.mulesoft.com/runtime-manager/vpc-provisioning-concept
 - Where to position your VPC https://docs.mulesoft.com/runtime-manager/vpc-management-permission-topic
 
 ## VPN
+
 - https://docs.mulesoft.com/runtime-manager/vpn-about
 - https://help.mulesoft.com/s/article/Anypoint-VPN-Knowledge-Articles
 - https://docs.mulesoft.com/runtime-manager/vpn-create-arm#vpn-create-arm
 
 ## Anypoint and Mule Updates
+
 - https://docs.mulesoft.com/release-notes/quick-refs/by-date-index
 
 ## Runtime Fabric Installation
+
 - https://www.youtube.com/watch?v=6ZwyJkdpfPw&t=5s
 
 ## API Community Manager
+
 - https://docs.mulesoft.com/api-community-manager/
 - Training / Trailhead https://trailhead.salesforce.com/en/content/learn/trails/communities
 - Webinar https://www.mulesoft.com/ty/webinar/developer-portal-community-manager
 
-Some Examples
+## Some Examples of Good Developer Portals
 
 - https://www.nzpost.co.nz/business/developer-resource-centre
 - https://developer.hsbc.com/#/apiCatalogue
@@ -247,20 +283,22 @@ Heroku - https://www.youtube.com/watch?v=5IZheOB2TSk
 - Devox https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg
 - https://microservices.io/
 
-# Additional Link from Sessions
-
 ## Reactive Programming
 
 - Reactive Manifesto https://www.reactivemanifesto.org/
 - https://projectreactor.io/docs
+- https://www.mulesoft.com/lp/whitepaper/api/reactive-programming
+
+## Profiling applications using VisulVM
+
+- https://visualvm.github.io/documentation.html
 
 
-## Testing
-
-Resilent testing
+## Resilent testing
 
 - https://en.wikipedia.org/wiki/Monkey_testing
 - https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116
+- https://principlesofchaos.org/?lang=ENcontent
 
 ## Semantic Versioning
 
