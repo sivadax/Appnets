@@ -62,7 +62,7 @@ A change can negatively impact an organization
 
 EA Deliverables
 
-- Stratey 
+- Strategy 
 - Principles 
 - Policy
 - governance 
