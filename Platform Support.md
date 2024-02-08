@@ -1,12 +1,12 @@
-| Anypoint Platform Component | US control plane | EU control plane | MuleSoft Government Cloud | Anypoint Platform PCE
+| Anypoint Platform Component | US control plane | EU control plane | MuleSoft Government Cloud | Anypoint Platform PCE |
 -------------------------------------------------------------------------------------------------------------------------
-| Access management | Y | Y | Y | Y
-| Analytics | Y | Y | N | N
-| Anypoint API Community Manager | Y | Y | Y | N
-| Anypoint API Experience Hub |Y|Y|N|N
-| Anypoint Code Builder | Y | Y | N | N
-| API Designer | Y | Y | Y | Y
-| Anypoint API Manager | Y | Y | Y | Y
+| Access management | Y | Y | Y | Y |
+| Analytics | Y | Y | N | N |
+| Anypoint API Community Manager | Y | Y | Y | N |
+| Anypoint API Experience Hub |Y|Y|N|N |
+| Anypoint Code Builder | Y | Y | N | N |
+| API Designer | Y | Y | Y | Y |
+| Anypoint API Manager | Y | Y | Y | Y |
 | CloudHub runtimes | Y | Y | Y | N
 | Customer-hosted runtimes | Y | Y | Y | Y
 | Anypoint DataGraph | Y | Y | N | N
